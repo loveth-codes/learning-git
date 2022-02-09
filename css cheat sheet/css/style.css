@@ -1,0 +1,37 @@
+body {
+    background-color:whitesmoke;
+    color: black;
+    margin: 0em;
+}
+.container {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 0em;
+
+}
+.h1 {
+    background-color: whitesmoke;
+    color: darkslategray;
+    text-align: center;
+    font-style: italic;
+}
+.h2 ::-webkit-inner-spin-button {
+    background-color: black;
+    color: whitesmoke;
+}
+.h3 {
+    background-color: whitesmoke;
+    text-align: center;   
+}
+.column {
+    flex: 20px;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+.container1 {
+    display: flex;
+}
+.container2 {
+    display: flex;
+}
